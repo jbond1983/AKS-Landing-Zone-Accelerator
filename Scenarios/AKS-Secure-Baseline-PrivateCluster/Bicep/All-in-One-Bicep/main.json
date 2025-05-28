@@ -42949,7 +42949,7 @@
                     },
                     "managedCluster": {
                       "type": "Microsoft.ContainerService/managedClusters",
-                      "apiVersion": "2023-07-02-preview",
+                      "apiVersion": "2023-07-01",
                       "name": "[parameters('name')]",
                       "location": "[parameters('location')]",
                       "tags": "[parameters('tags')]",
